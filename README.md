@@ -2,6 +2,9 @@
 > _Your Personal AI-Powered Travel Assistant_  
 > Powered by **LangGraph**, **Groq Llama 3.1**, and **Streamlit**
 
+
+https://github.com/Sourav5644/trip_planner/blob/9cd1e8562bacf8eeac48b6eb4ebd0f9b3235962b/trip123.pdf
+
 ---
 
 ## 🌟 Overview
