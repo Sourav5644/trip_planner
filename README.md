@@ -42,15 +42,6 @@ This project demonstrates your ability to integrate **LLMs, LangGraph workflows,
 
 ## 🏗️ Architecture Overview
 
-```mermaid
-graph TD
-A[User Input: City + Interests] --> B[LangGraph Workflow]
-B --> C[Groq Llama 3.1 - Suggest 5 Activities]
-C --> D[Generate One-Day Itinerary]
-D --> E[Streamlit UI Output (PDF Export Available)]
-
-
-
 trip_planner/
 │
 ├── app.py                # Streamlit frontend
